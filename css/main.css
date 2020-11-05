@@ -1,0 +1,70 @@
+.mui-search{
+	width: 88%;
+}
+.mui-pull-right{
+	line-height: 44px;
+	font-size: 14px;
+}
+.mui-bar-nav{
+	background: pink;
+	color:white;
+}
+#grid .mui-media-body,.hs{
+	font-size:12px;
+	color:black;
+}
+#grid{
+	background: white;
+	margin-bottom: 10px;
+}
+#paishe,#mlist{
+	background: white;
+}
+.more{
+	float:right;
+	font-size:12px;
+	color:dimgray;
+	padding-right: 15px;
+}
+.hs{
+	padding-left: 5px;
+}
+#paishe ul{
+	background: white;
+}
+#paishe .mui-media-body{
+	font-size:12px;
+	color:dimgray;
+}
+a:link{
+	color: dimgray;
+}
+a:visited{
+	color:gray;
+}
+a:hover{
+	color:red;
+}
+a:active{
+	color:dimgray;
+}
+.title{
+	font-weight: bold;
+	color:black;
+	font-size:12px;
+}
+.font_style{
+	font-size:12px;
+	color:gray;
+}
+.after_price{
+	font-weight: bold;
+	color:red;
+}
+.sale_num{
+	float:right;
+}
+#mlist img{
+	width: 84px;
+	height: 58px;
+}
